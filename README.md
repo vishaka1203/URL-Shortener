@@ -18,17 +18,17 @@ Below are some screenshots of the website:
 ### Home Page
 ![Home Page](docs/homeurl.png)
 
-### URL Shortening Form
-![URL Shortening Form](./docs/url-shortening-form.png)
+### URL Shortening 
+![URL Shortening ](./docs/shorturl.png)
 
-### QR Code Generation
-![QR Code Generation](./docs/qr-code-generation.png)
+### QR Code Generation 
+![QR Code Generation](./docs/QRcodegeneration.png)
 
-### URL Management
-![URL Management](./docs/url-management.png)
+### Download QR Code and Scan to redirect to original link
+![URL Management](./docs/downloadqr.png)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/vishaka1203/URL-Shortener.git
