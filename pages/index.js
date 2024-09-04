@@ -22,7 +22,7 @@ export default function Home() {
       });
 
       if (!res.ok) {
-        throw new Error('Failed to shorten URL, please nter the URL');
+        throw new Error('Failed to Shorten URL, please Enter the URL');
       }
 
       const data = await res.json();
