@@ -16,7 +16,7 @@ This project is a URL shortener application built with Next.js, allowing users t
 Below are some screenshots of the website:
 
 ### Home Page
-![Home Page](homeurl.png)
+![Home Page](docs/homeurl.png)
 
 ### URL Shortening Form
 ![URL Shortening Form](./docs/url-shortening-form.png)
